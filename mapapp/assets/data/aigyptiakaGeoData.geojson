@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue"
+        },
+        "name": "BALL FOR A HAIR-DO DECORATED WITH DARK BLUE AND LIGHT BLUE SEGMENTS.",
+        "description": "54. BALL FOR A HAIR-DO DECORATED WITH DARK BLUE AND LIGHT BLUE SEGMENTS. No. 1969-\n38/2.\nBlue faience, dia: 4 cm. Provenance: village of Agzubja, Ochamchiri region, Abkhazian republic, 1962. Date. lst\nmillennium BC.\nref: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 245."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.467554,
+          42.708919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue"
+        },
+        "name": "HEAD OF SAKHMET",
+        "description": "49. HEAD OF SAKHMET. No. 1973-21.\nGreenish blue faience: 5 x 4.7 x 1.7 cm. Provenance: same as in no. 48. Date: lst millennium BC. Bibliography:\nCat, no. 473.\n\nref: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 245."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.00185,
+          43.01042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue"
+        },
+        "name": "STATUETTE OF BASTET IN IMAGE OF THE SHAPE OF A WOMAN WITH A LION HEAD",
+        "description": "61. STATUETTE OF BASTET IN IMAGE OF THE SHAPE OF A WOMAN WITH A LION HEAD. No. 1134.\nPlate 193.\nBronze, height: 20 cm. Provenance: village of Chobdar, 1927. Date: lst millennium BC. Bibliography:\nAshurbeili, Skulptura, 64, 65; Cat, no. 476.\nref: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 246."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.111282,
+          40.613102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue"
+        },
+        "name": "STATUETTE. SOUL \"BA\" IN THE IMAGE OF TWO BIRDS.",
+        "description": "50. STATUETTE. SOUL \"BA\" IN THE IMAGE OF TWO BIRDS. Without inventory no.\nGreenish faience: 4.5 x 3.1 x 3.4 cm. Provenance: same as in no. 48. Date: 1st millennium BC.\n\nref: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 245."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.001815,
+          43.01042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SCARAB WITH A MAN FACING THE PRENOMEN OF (MEN-KHEPER-RA)|",
+        "description": "Pleiades ID:\nhttps://pleiades.stoa.org/places/825227\n\n2. SCARAB WITH A MAN FACING THE PRENOMEN OF (MEN-KHEPER-RA)|. No. 1164-a.\nGreyish yellow faience: 2.5 x 1.8 x 1 cm. Provenance: city of Armavir. Date: 8th-7th centuries B.C.\nBibliography: Piotrovsky, Karmir-Blur I, 84.\n\nReference: Berlev_Hodjash_1998_Catalogue_of_the_Monuments_of_Ancient_Egypt, p. 242",
+        "_umap_options": {
+          "color": "DarkGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.125603,
+          44.994911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMULET. SAKHMET",
+        "description": "4. AMULET. SAKHMET. No. 2010/4.\nPale yellow faience: 2.2 x 1.1 cm. Provenance: excavations at Teishebaini, 1946. Date: 7th century BC.\nBibliography: Piotrovsky. Eg.Predm, 20f.; Cat, no. 462.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242.\nPleiades ID: https://pleiades.stoa.org/places/863822\n",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.27122,
+          40.09132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "9. ARYBALLOS. No. 2010/136.\nGrey faience, height: 7 cm, dia: 3 cm. Provenance: excavations at Teishebaini, 1955. Date: 7th century BC.\nBibliography: Piotrovsky. Eg.Predm, 40; Cat, no. 466.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242.\nPleiades ID: https://pleiades.stoa.org/places/863822\n ",
+        "name": "ARYBALLOS",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.27122,
+          40.09132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "8. OVAL PLAQUE. Without inventory no.\nGrey faience: 2 x 1.4 x 0.6 cm. Provenance: excavations at Teishebaini, 1955. Date: 7th century BC.\nBibliography: Piotrovsky. Eg.Predm, 20, 21; Cat, no. 465.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242.\nPleiades ID: https://pleiades.stoa.org/places/863822\n ",
+        "name": "OVAL PLAQUE",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.27122,
+          40.09132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "6. OVAL PLAQUE WITH ALTAR. No. 2010/23. Plate 194.\nGreyish blue faience: 1.7 x 1.2 x 0.6 cm. Provenance: excavations at Teishebaini, 1948. Date: 7th century BC.\nBibliography: Piotrovsky. Karmir-Blur I, 84; Cat, no. 463.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242.\nPleiades ID: https://pleiades.stoa.org/places/863822\n ",
+        "name": "OVAL PLAQUE WITH ALTAR.",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.27122,
+          40.09132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "OVAL PLAQUE WITH THE HIEROGLYPHS \"BEAUTY\", \"TRUTH\", \"SUN\". No. 2010/151-a.\nGrey faience: 2 x 1 x 0.5 cm. Provenance: excavations at Teishebaini, 1948. Date: 7th century BC. Bibliography:\nPiotrovsky. Karmir-Blur I, 84; Cat, no. 464.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242.\nPleiades ID: https://pleiades.stoa.org/places/863822\n ",
+        "name": "OVAL PLAQUE WITH THE HIEROGLYPHS \"BEAUTY\", \"TRUTH\", \"SUN\"",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.27122,
+          40.09132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "5. OVAL PLAQUE WITH THE REPRESENTATION OF AN ALTAR. No. 2010/22.\nGreyish yellow faience: 2 x 1.4 x 0.6 cm. Provenance: excavations at Teishebaini, 1948. Date: 7th century BC.\nBibliography: Piotrovsky. Karmir-Blur I, 84.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242.\nPleiades ID: https://pleiades.stoa.org/places/863822\n",
+        "name": "OVAL PLAQUE WITH THE REPRESENTATION OF AN ALTAR",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.27122,
+          40.09132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pendant Lion",
+        "description": "3. PENDANT. LION. No. 1631/2.\nGreyish yellow faience: 2.5 x 1.8 cm. Provenance: village of Penzashen, Artik region. Date: 7th centure BC.\n\nRef: Oleg, Berlev, and Svetlana Hodjash, Catalogue of the Monuments of Ancient Egypt: From the Museums of the Russian Federation, Ukraine, Bielorussia, Caucasus, Middle Asia and the Baltic States (Fribourg, 1998) <https://doi.org/10.5167/uzh-159792> [accessed 2 May 2019], p. 242",
+        "_umap_options": {
+          "color": "LightGreen"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.93836,
+          40.584496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "LimeGreen"
+        },
+        "name": "STATUE'ITE OF GODDESS ISIS",
+        "description": "549. STATUE'ITE OF GODDESS ISIS. Without inventory no. Plate 199.\nBronze, height: 4.7 cm; wide: 3.4 cm.\nProvenance: Gerauldepe. Range Bolchoi Balchan, excavations, 1986. Date: XXVI dynasty. Bibliography: Yusupov/Hodjash, Goddess, 3, 4; Cat, no. 513.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.03556,
+          38.03222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "517. ALABASTRON. No. A-638.\nAlabaster, height: 10 cm; dia: 32 cm, dia (bottom): 3 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "518. ALABASTRON. No. A—686. Plate 199.\nAlabaster, height: 22.5 cm; ida: 5.8 cm, dia(mouth): 5.5 cm, dia (bottom): 7 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "519. ALABASTRON. N0. A-1096. Plate 199.\nAlabaster, height: 13.6 cm; dia: 4 cm, dia (mouth): 5 cm, dia (bottom): 3.5 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "520. ALABASTRON. No. A-1227.\nAlabaster, height: 1.4 cm; dia: 4.5 cm, dia (mouth): 1.5 cm, dia (bottom): 3.5 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "521. ALABASTRON. No. A-1266.\nAlabaster, height: 14,5 cm; dia: 3.4 cm, dia (bottom): 2.5 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "522. ALABASTRON. No. A-1602.\nAlabaster, height: 20.7 cm; dia: 5 cm, dia (bottom): 1.1 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "523. ALABASTRON. No. 1609. Plate 199.\nAlabaster, height: 12.5 cm; dia: 4.2 cm, dia (mouth): 2 cm, dia (bottom): 1.1 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "524. ALABASTRON. No. 1908.Alabaster, height: 12 cm; dia: 5.5 cm, dia (mouth): 3.2 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "525. ALABASTRON. No. A-1909—a.\nAlabaster, height: 8.4 cm; dia: 2.8 cm, dia (mouth): 1.5 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "526. ALABASTRON. No. 1909-b.\nAlabaster, height: 8 cm; dia: 4 cm, dia (bottom): 2 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "527. ALABASTRON. No. A-1909-c.\nAlabaster, height: 8.9 cm; dia: 5.2 cm, dia (bottom): 2 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "528. ALABASTRON (fragment). No. A-1910.\nAlabaster, height: 5.3 cm; dia: 4 cm, dia (bottom): 3.5 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "529. ALABASTRON (fragment). No. 1911. Plate 199.\nAlabaster, height: 4.2 cm; dia: 3.8 cm, dia (mouth): 15 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "530. ALABASTRON. No. A—1920.\nAlabaster, height: 7.5 cm; dia: 3.8 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "ALABASTRON",
+        "description": "531. ALABASTRON. No. A-2188. Plate 199.\nAlabaster, height: 7.3 cm; dia: 2.6 cm, dia (bottom): 2.2 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "AMPHORE WITH LIGHT BLUE AND YELLOW ZIGZAG PATTERN",
+        "description": "533. AMPHORE WITH LIGHT BLUE AND YELLOW ZIGZAG PATTERN. Withouth inventory no.\nGlass, height: 9.5 cm; dia: 2.8 cm, dia (mouth): 2.5 cm. Provenance: unknown. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "BROAD VESSELS WITH WIDE BODY",
+        "description": "532. No. A-1907.\nAlabaster light yellow, height: 8.5 cm; dia: 6 cm, dia (mouth): 1.4 cm. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkBlue"
+        },
+        "name": "RIGHT ANGLED PLAQUE WITH THE REPRESENTATION OF A GOOSE OF AMON.",
+        "description": "534. RIGHT ANGLED PLAQUE WITH THE REPRESENTATION OF A GOOSE OF AMON. No. A—1033.\nDark green faience. Provenance: unknown. Date: 6th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "ALABASTRON DARK BLUE WITH BLUE ORNAMENT",
+        "description": "507. ALABASTRON DARK BLUE WITH BLUE ORNAMENT . (fragment). No. KMAC-80.\nGlass: 1.9 x 3.7 x 2.8 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.958984,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "ALABASTRON DARK BLUE WITH WHITE AND YELLOW LINES",
+        "description": "508. ALABASTRON DARK BLUE WITH WHITE AND YELLOW LINES (fragment). No. B-801.\nGlass: 2.5 x 3.3 x 2.2 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "ALABASTRON DARK BLUE WITH WHITE CHEVRONS",
+        "description": "511. ALABASTRON DARK BLUE WITH WHITE CHEVRONS (fragment). No. KMAC-804.\nGlass, height: 2.7 cm; dia (neck): 1.8 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "ALABASTRON DARK BLUE WITH YELLOW LINES",
+        "description": "509. ALABASTRON DARK BLUE WITH YELLOW LINES (fragment). Without inventory no.\nGlass: 2.5 x 3.3 x 2.2 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "ALABASTRON LIGHT YELLOW WITH BROWN CHEVRONS AND CIRCLES",
+        "description": "513. ALABASTRON LIGHT YELLOW WITH BROWN CHEVRONS AND CIRCLES (fragment). No. KMAC-805.\nGlass, height: 3.2 cm; dia: 28 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "AMPHORISKOS BLACK WITH YELLOW CIRCLES",
+        "description": "514. AMPHORISKOS BLACK WITH YELLOW CIRCLES (fragment). No. KMAC-1029.\nGlass, height: 2.2 cm; dia: 2.3 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "AMPHORISKOS DARK BLUE WITH WHITE AND YELLOW LINES AND CONCENTRIC CIRCLES",
+        "description": "510. AMPHORISKOS DARK BLUE WITH WHITE AND YELLOW LINES AND CONCENTRIC CIRCLES. No. B-802.\nGlass, height: 5.7 cm; dia (neck): 1.5 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "AMPHORISKOS DARK BLUE WITH YELLOW CIRCLES",
+        "description": "516. AMPHORISKOS DARK BLUE WITH YELLOW CIRCLES (fragment). No. KMAC-1032.\nGlass, height: 3 cm ; dia: 2 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "AMPHORISKOS PALE BLUISH—YELLOW WITH YELLOW CIRCLES",
+        "description": "515. AMPHORISKOS PALE BLUISH—YELLOW WITH YELLOW CIRCLES (fragment). Without inventory no.\nGlass, height: 2.3 cm; dia: 2.3 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "AMPOHORISKOS BROWN",
+        "description": "512. AMPOHORISKOS BROWN (fragment). no. KMAC-808.\nGlass, height: 2.6 cm; dia: 2.7 cm; dia (halo): 2.2 cm. Date: last quarter of the 6th century - 5th century BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.901597,
+          47.219568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Gold"
+        },
+        "name": "STATUE OF ANUBIS",
+        "description": "548. STATUE OF ANUBIS. No. JM-4972.\nBronze, height: 5.8 cm. Provenance: same as in no. 547. Date: 5th century BC. Bibliography: Snitkuvene. VDI, 1988, N 3, 85.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.465803,
+          55.349657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Gold"
+        },
+        "name": "STATUE OF KNEELING PRIEST",
+        "description": "547. STATUE OF KNEELING PRIEST. No. JM-4968.\nBronze, height: 6.2 cm. Provenance: Svenskna, burial, Siluta region, Latvia, find of Adam Plater, 1852. \nDate: 5th century BC. Bibliography: Snitkuvene. VDI, 1988, N 3, 84.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.465803,
+          55.349657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "79. AMULET. BES. No. Kr—IV-163.",
+        "description": "79. AMULET. BES. No. Kr—IV-163.\nBlue faience: 1 x 0.6 x 0.5 cm. Provenance: same as in no. 78. Date: 4th century BC. Bibliography: Lescov,Cat,\n1'10.\nref: ",
+        "_umap_options": {
+          "color": "Orange"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.945181,
+          45.054934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "80. AMULET. BES. No. Kr-IV-166.",
+        "description": "80. AMULET. BES. No. Kr-IV-166.\nBlue faience: 2.1 x 0.9 x 0.5 cm. Provenance: same as in no. 78. Date: 4th century BC. Bibliography: Lescov,\nCat, no.\nref:",
+        "_umap_options": {
+          "color": "Orange"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.945181,
+          45.054934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "81. ROUNDISH BEAD. No. Kr-IV-181.",
+        "description": "81. ROUNDISH BEAD. No. Kr-IV-181.\nTurquoise coloured faience: 0.8 x 1 x 1 cm. Provenance: same as in no. 78. Date: 4th century BC. Bibliography:\nLescov, Cat, no.\nref:",
+        "_umap_options": {
+          "color": "Orange"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.945181,
+          45.054934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "82. PENDANT. CONE. No. Kr-IV.196.",
+        "description": "82. PENDANT. CONE. No. Kr-IV.196.\nTurquoise coloured faience: 2.2 x 1.1 X 1 cm. Provenance: same as in no. 78. Date: 4th century BC.\nBibliography: Lescov. Cat, no.\nref:",
+        "_umap_options": {
+          "color": "Orange"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.945181,
+          45.054934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALABASTRON",
+        "description": "78. ALABASTRON. No. Dr-in-13.\nAlabaster, height: 12 cm; greatest dia: 4.6 cm. Provenance: aul Uljap, 1982. Date: 4th century BC. Bibliography:\nLescov,Cat, no.; Cat, no. 480.\nref: ",
+        "_umap_options": {
+          "color": "Orange"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.945181,
+          45.054934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Moccasin"
+        },
+        "name": "ROUNDISH BEAD WITH FACETS",
+        "description": "277. No. B-224.\nBright blue faience: 1.8 x 1.8 x 1.55 cm. Date: 4th-lst centuries BC.\nref:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.467022,
+          45.36286
+        ]
+      }
+    }
+  ]
+}
